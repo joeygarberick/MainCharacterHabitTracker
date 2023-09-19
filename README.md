@@ -8,7 +8,7 @@
   
 ## **Client Partner Information**
 
-## *People:*
+### *Company:*
 
 ### *People:*
 
