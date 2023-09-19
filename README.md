@@ -1,6 +1,17 @@
 # MainCharacterHabitTracker
-## Summary
-## Team Members
-## Client Partner Information
-## Links
+
+## **Summary**
+
+## **Team Members**
+
+- Joey Garberick
+  
+## **Client Partner Information**
+
+## *People:*
+
+### *People:*
+
+## **Links**
+
 ## Code Repositories
