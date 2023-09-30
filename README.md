@@ -12,7 +12,6 @@
   
 ## **Client Partner Information**
 
-Name: Ruben Naoye
 Email: Naoye16@gmail.com
 
 ### *Company:*
