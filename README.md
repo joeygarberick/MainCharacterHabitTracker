@@ -21,9 +21,9 @@ Email: Naoye16@gmail.com
 
 ## **Links**
 
--[Client Meetings](https://github.com/joeygarberick/MainCharacterHabitTracker/tree/main/MeetingMinutes/ClientPartner)
--[Mentor Meetings](https://github.com/joeygarberick/MainCharacterHabitTracker/tree/main/MeetingMinutes/Mentor)
--[Team Meetings]()
+- [Client Meetings](https://github.com/joeygarberick/MainCharacterHabitTracker/tree/main/MeetingMinutes/ClientPartner)
+- [Mentor Meetings](https://github.com/joeygarberick/MainCharacterHabitTracker/tree/main/MeetingMinutes/Mentor)
+- [Team Meetings]()
 
 
 
