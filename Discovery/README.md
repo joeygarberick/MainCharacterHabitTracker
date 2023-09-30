@@ -6,6 +6,9 @@
 
 - [Meeting Minutes](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Discovery/Minutes.md)
 
+- [About, Objectives, Target Audience](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Discovery/Screenshot%202023-09-30%20at%207.42.19%20PM.png)
+- [Teck Stack & Requirements](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Discovery/Screenshot%202023-09-30%20at%207.42.42%20PM.png)
+
 ## Topics Discussed 
 
 ### Points On Project
