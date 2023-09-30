@@ -2,28 +2,8 @@
 
 - [Client Idea Presentation](https://www.canva.com/design/DAFrbvE3FwM/n12qDKdJqfQfdif7ZIR6cw/view?utm_content=DAFrbvE3FwM&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1)
 
-# Client Meeting on 9/28/2023
-## Meeting Start Tinme
-2023/09/28/18:32.40
-## Meeting End Time
-2023/09/28/19:43.24
+- [Meeting Minutes](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Discovery/Minutes.md)
 
-## Location
-Zoom
-
-## Present
-- Joey Garberick
-- Hannah Johnston
-- Paul Lian
-- Heidi Nolte
-- Caige Rogers
-- Mentor: Annie Peabody
-- Client: Ruben Naoye
-  
-## Minute Recorder
-- Caige Rogers
-
-  
 ## Topics Discussed 
 
 ### Points On Project
