@@ -6,3 +6,4 @@
 - [Prototype](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Design/Prototype.md)
 - [Requirements](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Design/Requirements.md)
 - [TechStack](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Design/TeckStack.md)
+- [UseCases](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Design/UseCases.md)
