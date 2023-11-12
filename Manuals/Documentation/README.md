@@ -6,4 +6,4 @@
 
 [Development](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Manuals/Documentation/Development.md)
 
-[Presentation](https://docs.google.com/presentation/d/1kC4zoOlkRdSIQZ3O0Zo-NPn1GwWQ6lehAdKZm7v_2OE/edit?usp=sharing)
+﻿﻿<a href="https://docs.google.com/presentation/d/1kC4zoOlkRdSIQZ3O0Zo-NPn1GwWQ6lehAdKZm7v_2OE/edit?usp=sharing" target="_blank">Presentation</a>
