@@ -12,9 +12,7 @@
 
 
 ## Creating a Habit
-### When at the home page press the + button
-
-<img width="56" alt="Screenshot 2023-11-12 at 3 06 36 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/a1ee6bb8-2169-4092-b664-f668986facc5">
+### When at the home page press the button in the bottom right
 
 <img width="348" alt="Screenshot 2023-11-12 at 2 59 43 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/8ac2765f-b8e5-41b4-bd51-e96c358962f4">
 
