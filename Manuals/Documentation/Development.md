@@ -1,7 +1,7 @@
 # Development 
 
 ## Firebase emulator Setup
-1. Create or sign into a firebase account.
+1. Create or sign into a [firebase account](https://firebase.google.com/).
 2.  Create project called ''main-char-habit-tracker''.
 3. Get the firebase CLI through npm.
     > npm install firebase
