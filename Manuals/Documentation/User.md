@@ -17,27 +17,33 @@
 ### When at the home page press the button in the bottom right to open the habit creation screen.
 
 ### Input your habit information, start date is optional, press the check when done.
-<img width="305" alt="Screenshot 2023-12-10 at 7 13 39 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/4aedb491-b8ec-49c6-9216-c824ab1e89eb">
+
+<img width="305" alt="Screenshot 2023-12-10 at 7 18 46 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/df8aead4-5c2d-48a0-8106-2175ad2c8345">
 
 
-habit creation 
+<img width="305" alt="Screenshot 2023-12-10 at 7 15 29 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/b60f3cda-ef87-4c59-8b23-6deeb471e44b">
 
-habit page after creation
+<img width="305" alt="Screenshot 2023-12-10 at 7 19 34 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/f96882ef-b3ea-4ad6-9a4d-00a9c118af51">
 
-habit edit page
+<img width="305" alt="Screenshot 2023-12-10 at 7 19 51 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/10c96b57-904e-4de1-a633-78dc450f0983">
+
 
 ## Habit Consistency
 ### Once you have your habits you can press "I did this today" to track your consistency. This will alter your completion percentage and the color of the habit card.
 
 habit no color change
-habits with color change
+
+<img width="305" alt="Screenshot 2023-12-10 at 7 20 11 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/d00ab8bc-858d-47f9-856b-ffb765cc237e">
+
 
 ## Map & taging locations
 ### click the bottom slider all the way to the right on the map icon
 
-map page
-tag map page
-map after tagging
+<img width="305" alt="Screenshot 2023-12-10 at 7 20 43 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/8498fd78-c42c-4e93-b322-6d143e246d36">
+
+<img width="305" alt="Screenshot 2023-12-10 at 7 21 00 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/2cc1ed6c-80a8-4559-9748-edf151203c21">
+
+<img width="305" alt="Screenshot 2023-12-10 at 7 22 34 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/a82425fc-6dc7-428f-8a6d-044c5bb4de7d">
 
 ## Your Profile
 ### Here you will see the statistics of your habits.
