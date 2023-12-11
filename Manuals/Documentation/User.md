@@ -17,7 +17,8 @@
 ### When at the home page press the button in the bottom right to open the habit creation screen.
 
 ### Input your habit information, start date is optional, press the check when done.
-habit card page with a few habits 
+<img width="305" alt="Screenshot 2023-12-10 at 7 13 39 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/4aedb491-b8ec-49c6-9216-c824ab1e89eb">
+
 
 habit creation 
 
