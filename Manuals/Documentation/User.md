@@ -1,5 +1,4 @@
 # Using The App
-picture of splash
 <img width="306" alt="Screenshot 2024-02-05 at 8 47 09 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/df3addea-fcdc-48c5-84cf-d0e614c4b791">
 
 ## Signing Up
