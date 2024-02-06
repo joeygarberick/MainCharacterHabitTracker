@@ -1,5 +1,6 @@
 # Using The App
-<img width="305" alt="Screenshot 2023-12-08 at 2 06 04 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/f37d8f40-e547-44b4-8447-0bb433e10b66">
+picture of splash
+<img width="306" alt="Screenshot 2024-02-05 at 8 47 09 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/df3addea-fcdc-48c5-84cf-d0e614c4b791">
 
 ## Signing Up
 ### Press sign up
@@ -13,27 +14,29 @@
 
 
 
-## Creating a Habit
-### When at the home page press the button in the bottom right to open the habit creation screen.
+## Creating a Vice
+### When at the home page press the button in the bottom right to open the vice creation screen.
 
-### Input your habit information, start date is optional, press the check when done.
+### Input your vice information, choose the category start date is optional, press the check when done.
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 18 46 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/df8aead4-5c2d-48a0-8106-2175ad2c8345">
+<img width="306" alt="Screenshot 2024-02-05 at 8 41 39 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/09d54fa3-208a-4243-8f3e-bbd20c5019aa">
 
+<img width="306" alt="Screenshot 2024-02-05 at 8 43 53 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/a6ea6fe5-3b8c-49f7-b144-782a7f4dc4c7">
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 15 29 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/b60f3cda-ef87-4c59-8b23-6deeb471e44b">
+<img width="306" alt="Screenshot 2024-02-05 at 8 43 49 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/c18a859e-9ddc-4df2-a86d-980206fa98b4">
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 19 34 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/f96882ef-b3ea-4ad6-9a4d-00a9c118af51">
+<img width="306" alt="Screenshot 2024-02-05 at 8 45 51 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/95bdabff-0eb5-4e0a-b75e-28b6c751223a">
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 19 51 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/10c96b57-904e-4de1-a633-78dc450f0983">
+<img width="306" alt="Screenshot 2024-02-05 at 8 46 06 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/9a6f28dc-287c-48fa-8069-931f3f342025">
 
+<img width="306" alt="Screenshot 2024-02-05 at 8 46 19 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/715f3fc3-d12b-488a-8cd4-9191bebc2e68">
 
-## Habit Consistency
-### Once you have your habits you can press "I did this today" to track your consistency. This will alter your completion percentage and the color of the habit card.
+## Vice Consistency
+### Once you have your vice you can press the + to track your consistency. This will alter your completion percentage and the color of the vice card.
 
-habit no color change
+<img width="306" alt="Screenshot 2024-02-05 at 8 46 37 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/ec495cc0-a4af-49e8-a03b-ffd834e31234">
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 20 11 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/d00ab8bc-858d-47f9-856b-ffb765cc237e">
+<img width="306" alt="Screenshot 2024-02-05 at 8 46 55 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/66d290f1-1de1-4155-b89d-1640139875e3">
 
 
 ## Map & taging locations
