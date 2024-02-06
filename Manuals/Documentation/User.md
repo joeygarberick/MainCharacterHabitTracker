@@ -16,7 +16,7 @@
 ## Creating a Vice
 ### When at the home page press the button in the bottom right to open the vice creation screen.
 
-### Input your vice information, choose the category start date is optional, press the check when done.
+### Input your vice information, choose the category, then press the check when done.
 
 <img width="306" alt="Screenshot 2024-02-05 at 8 41 39 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/09d54fa3-208a-4243-8f3e-bbd20c5019aa">
 
