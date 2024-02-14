@@ -1,6 +1,6 @@
 # Development 
-
-## Find the code [here](https://github.com/joeygarberick/main_character_habit_tracker)
+## Code
+ Download the code [here](https://github.com/joeygarberick/main_character_habit_tracker)
 
 
 ## Firebase emulator Setup
@@ -38,3 +38,13 @@
 2. Download the mobile phone simulator.
 4. Link to your editor
 4. Run the code
+
+## Linting
+- This project is run within using the dart and flutter built in linter. 
+
+- this command will run the built in linter.
+
+        $ dart analyze
+
+
+- To view more about the dart linter visit [this link](https://dart.dev/tools/linter-rules)
