@@ -5,8 +5,8 @@
 2.  Create project called ''main-char-habit-tracker''.
 3. Get the firebase CLI through npm.
     > npm install firebase
-4. navagte to the projcet directory.
-5. initalize firebase emulators.
+4. navigate to the project directory.
+5. initialize firebase emulators.
     > firebase init emulators bundle install
     - select firestore, authentication, and database.
     - make sure selected ports are:

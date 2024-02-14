@@ -1,5 +1,5 @@
 # Architecture
-![Architectrue](https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112030126/fa54a1c9-6201-458c-bc04-2807a6dcc4ab)
+![Architecture](https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112030126/fa54a1c9-6201-458c-bc04-2807a6dcc4ab)
 ### Flutter Frontend
 This is how the end user will interact with the application. It was made a module as it contains all of the front-end code and handles most of the communication with the back end server.
 

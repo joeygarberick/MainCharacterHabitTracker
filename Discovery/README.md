@@ -22,7 +22,7 @@
 - Mask the elements you need to create a habit
 
 ### Objectives
-- Enjoy workning on the project
+- Enjoy working on the project
 - Apply this in our lives
 - Get this on the app store
   
@@ -35,7 +35,7 @@ For anyone who wants to participate with three main things:
 ### Requirements 
 - Date tracking
 - Workout editor
-- Heat Map of affects (postive and negative) through location management
+- Heat Map of affects (positive and negative) through location management
 - Virtual companion and or character
 - Data stored in cloud
 
