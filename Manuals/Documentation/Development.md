@@ -45,11 +45,14 @@
 4. Run the code
 
 ## Linting
-- This project is run within using the dart and flutter built in linter. 
-
-- this command will run the built in linter.
+- This is a flutter project meaning we utilize Dart's built-in linter for an analysis of our Dart codebase. 
 
         $ dart analyze
 
+- The rules are configured using the `analysis_options.yaml` file in our project.
+
+- Run the `dart analyze` before  a commit. 
+
+- If any linting issues are detected the commit is stopped.
 
 - To view more about the dart linter visit [this link](https://dart.dev/tools/linter-rules)
