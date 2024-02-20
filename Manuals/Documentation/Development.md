@@ -2,7 +2,7 @@
 ## Code
 In the command line navigate to the place in which you would like to initialize the repository. Then run the following command:
 
-> git clone https://github.com/joeygarberick/main_character_habit_tracker.git
+    $ git clone https://github.com/joeygarberick/main_character_habit_tracker.git
 
 
 ## Firebase emulator Setup
