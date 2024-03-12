@@ -37,6 +37,14 @@
 
 <img width="306" alt="Screenshot 2024-02-05 at 8 46 55 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/66d290f1-1de1-4155-b89d-1640139875e3">
 
+## Vice Statistics
+### Once you have a vice created and tracked, you will be able to view it within the graphs pages, to get here click the middle of the navigation bar.
+
+<img width="301" alt="Screenshot 2024-03-11 at 9 19 18 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/3d2583c6-e066-4a5a-a5d5-3e75552e8afc">
+
+<img width="301" alt="Screenshot 2024-03-11 at 9 21 48 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/7b008d74-c15f-4a08-8dce-87656afdfd49">
+
+<img width="301" alt="Screenshot 2024-03-11 at 9 22 01 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/2ab85640-6603-4faa-8cbe-dca071027749">
 
 ## Map & taging locations
 ### click the bottom slider all the way to the right on the map icon
@@ -46,8 +54,3 @@
 <img width="305" alt="Screenshot 2023-12-10 at 7 21 00 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/2cc1ed6c-80a8-4559-9748-edf151203c21">
 
 <img width="305" alt="Screenshot 2023-12-10 at 7 22 34 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/a82425fc-6dc7-428f-8a6d-044c5bb4de7d">
-
-## Your Profile
-### Here you will see the statistics of your habits.
-
-profile page
