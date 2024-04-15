@@ -1,38 +1,69 @@
 # Deployment 
 
-## Firebase emulator Setup
-1. Create or sign into a [firebase account](https://firebase.google.com/).
-2.  Create project called ''main-char-habit-tracker''.
-3. Get the firebase CLI through npm.
-    > npm install firebase
-4. navigate to the project directory.
-5. initialize firebase emulators.
-    > firebase init emulators bundle install
-    - select firestore, authentication, and database.
-    - make sure selected ports are:
-        - 3000 for auth 
-        - 8080 for firestore
-        - 9000 for database.
-6.  Start emulators 
-    > firebase emulators:start
-7. Verify using the local UI givin
+## Follow Steps of [Development.md](https://github.com/joeygarberick/MainCharacterHabitTracker/blob/main/Manuals/Documentation/Development.md).
 
-    <img width="487" alt="Screenshot 2023-11-12 at 3 30 38 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/48b98a56-8dad-4443-b14d-bd5516730f10">
+This will ensure that your project is correctly set up to release
+
+## Android deployment
+1. Sign up for a Google Play Console developer account
+2. Navigate into the project directory within powershell and run the following line of code:
+
+        $ keytool -genkey -v -keystore %userprofile%\upload-keystore.jks ^
+            -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 ^
+            -alias upload
+3. In the android folder create a file named key.properties with the following:
+
+        $ storePassword=<password-from-previous-step>
+          keyPassword=<password-from-previous-step>
+          keyAlias=upload
+          storeFile=<keystore-file-location>
+
+The keystore will be under whatever filepath you saved it to in the code in step 2
+
+4. In the android/app/build.gradle file add the keystore information from your properties file before the android block
+
+        $ +   def keystoreProperties = new Properties()
+          +   def keystorePropertiesFile = rootProject.file('key.properties')
+          +   if (keystorePropertiesFile.exists()) {
+          +       keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+          +   }
+          +
+             android {
+                ...
+             }
 
 
-## Envirnment Setup
-1. [Download Flutter](https://docs.flutter.dev/get-started/install) as this is a flutter application.
+5. Add the siging configuration before the buildTypes block:
 
-## Simulator Setup Xcode
-1. Download XCode
-2. Download the mobile phone simulator.
-    - With ios 15 or newer 
-3. Start up ios simulator
-    - Link to your editor
-4. Run the code
+        $ +   signingConfigs {
+          +       release {
+          +           keyAlias keystoreProperties['keyAlias']
+          +           keyPassword keystoreProperties['keyPassword']
+          +           storeFile keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+          +           storePassword keystoreProperties['storePassword']
+          +       }
+          +   }
+             buildTypes {
+                release {
+                   // TODO: Add your own signing config for the release build.
+                   // Signing with the debug keys for now,
+                   // so `flutter run --release` works.
+          -           signingConfig signingConfigs.debug
+          +           signingConfig signingConfigs.release
+                }
+             }
 
-## Simulator Setup Android Studio
-1. Download Android Studio
-2. Download the mobile phone simulator.
-4. Link to your editor
-4. Run the code
+6. Clean the code
+
+        $ flutter clean
+
+7. In the AndroidMainifest.xml in android/app/src/main verify that the android:label in the application tag has the correct app name and that the android.permission.INTERNET permission is enabled
+8. In the build.gradel in the android/app directory ensure that the applicationID is correct, the versionCode is correct, the versionName is correct
+
+9. in the command line navigate to the project directory and run
+
+        $ flutter build appbundle
+
+10. Using the Google Play console, you can begin the process for app release to the Play Store
+
+## iOS Deployment
