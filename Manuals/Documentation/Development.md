@@ -8,12 +8,43 @@ In the command line navigate to the place in which you would like to initialize 
 ## Firebase emulator Setup
 1. Create or sign into a [firebase account](https://firebase.google.com/).
 2.  Create project called ''main-char-habit-tracker''.
-3. Get the firebase CLI through npm.
+3.  On the Firebase Console, select to add a new Android app to this Firebase project.
+4.  The "Android Package Name" should match com.example.main_character_habit_tracker
+
+        $ The debug signing certificate SHA-1 is not needed here
+
+5. Once registered in the firebase console, you will need to download the configuration file from the Firebase console called google-services.json. This file will be added to your project under the android/app directory.
+6. To install the configuration file to the project, add the following line of code to the android/build.gradle file to add the 'google-serivces' plugin
+
+        $ classpath 'com.google.gms:google-services:4.3.8'
+
+> [!NOTE]
+> Multidex should be preenabled thus there will be no issues with merging dex archives
+
+
+
+8.  Apply the plugin by adding the following underneath the line "apply plugin: 'com.android.application'
+
+        $ apply plugin: 'com.google.gms.google-services'
+
+> [!NOTE]
+> Skip steps - if you do not have a mac to release to iOS as Xcode is required
+
+
+10. On the firebase console select to add an additional iOS app to the Firebase app.
+11. When prompted add your iOS bundle id to the flutter project
+> [!NOTE]
+> This can be found under the General tab when opening ios/Runner.xcworkspace with Xcode
+
+12. Download teh GoogleService-Info.plst file from the Firebase console and using Xcode, open the projects ios/main-character-habit-tracker.xcworkspace file. Right click Runner from the left side nav bar within Xcode and select Add files and select the file you just downloaded to add to the project. Ensure that you have Copy Items if needed selected
+
+
+13. Get the firebase CLI through npm.
 
         $ npm install firebase
 
-4. navigate to the project directory.
-5. initialize firebase emulators.
+14. navigate to the project directory.
+15. initialize firebase emulators.
 
         $ firebase init emulators bundle install
 
@@ -22,10 +53,10 @@ In the command line navigate to the place in which you would like to initialize 
         - 3000 for auth 
         - 8080 for firestore
         - 9000 for database.
-6.  Start emulators 
+16.  Start emulators 
 
         $ firebase emulators:start
-7. Verify using the local UI givin
+17. Verify using the local UI givin
 
     <img width="487" alt="Screenshot 2023-11-12 at 3 30 38 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/48b98a56-8dad-4443-b14d-bd5516730f10">
 
