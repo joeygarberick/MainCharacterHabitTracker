@@ -5,7 +5,7 @@ In the command line navigate to the place in which you would like to initialize 
     $ git clone https://github.com/joeygarberick/main_character_habit_tracker.git
 
 
-## Firebase emulator Setup
+## Firebase Setup
 1. Create or sign into a [firebase account](https://firebase.google.com/).
 2.  Create project called ''main-char-habit-tracker''.
 3.  On the Firebase Console, select to add a new Android app to this Firebase project.
