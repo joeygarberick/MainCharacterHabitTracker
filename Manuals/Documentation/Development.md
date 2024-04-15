@@ -56,9 +56,26 @@ In the command line navigate to the place in which you would like to initialize 
 16.  Start emulators 
 
         $ firebase emulators:start
-17. Verify using the local UI givin
+17. Verify using the local UI giving
 
     <img width="487" alt="Screenshot 2023-11-12 at 3 30 38 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/48b98a56-8dad-4443-b14d-bd5516730f10">
+
+## Maps API setup
+1. Create an account on the [google cloud console](https://console.cloud.google.com/projectcreate?utm_source=Docs_NewProject&utm_content=Docs_maps-android-backend&_gl=1*11lv5dn*_ga*MjAyMTY0MjUzNi4xNzEzMTg1NzU1*_ga_NRWSTWS78N*MTcxMzE4NTgxOS4xLjEuMTcxMzE4NTkzMy4wLjAuMA..) and select to create a new project.
+2. Follow the regular set up steps as prompted
+3. Enable both the android and iOS Google Maps platoform APIs
+4. In the google maps platform page in the cloud console, you have access to the two api keys
+5. Copy your android maps API key then within the AndroidMainfest.xml file in android/app/src/main add the following line of code within the application node
+
+        $ <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="YOUR-KEY-HERE"/>
+6. Copy your iOS API key within the cloud console. Then in the AppDelegate.swift file in ios/Runner, add the following:
+
+        $ IN THE IMPORTS ADD
+           import GoogleMaps
+
+        $ UNDER GeneratedPluginRegistrant.register(with: self) ADD
+           GMSServices.provideAPIKey("YOUR-API-KEY")
 
 ## Environment Setup
 1. [Download Flutter](https://docs.flutter.dev/get-started/install) as this is a flutter application.
