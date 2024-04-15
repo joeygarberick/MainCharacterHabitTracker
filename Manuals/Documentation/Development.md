@@ -28,7 +28,7 @@ In the command line navigate to the place in which you would like to initialize 
         $ apply plugin: 'com.google.gms.google-services'
 
 > [!NOTE]
-> Skip steps - if you do not have a mac to release to iOS as Xcode is required
+> Skip steps 10 - 12 if you do not have a mac to release to iOS as Xcode is required
 
 
 10. On the firebase console select to add an additional iOS app to the Firebase app.
@@ -36,7 +36,7 @@ In the command line navigate to the place in which you would like to initialize 
 > [!NOTE]
 > This can be found under the General tab when opening ios/Runner.xcworkspace with Xcode
 
-12. Download teh GoogleService-Info.plst file from the Firebase console and using Xcode, open the projects ios/main-character-habit-tracker.xcworkspace file. Right click Runner from the left side nav bar within Xcode and select Add files and select the file you just downloaded to add to the project. Ensure that you have Copy Items if needed selected
+12. Download the GoogleService-Info.plst file from the Firebase console and using Xcode, open the projects ios/main-character-habit-tracker.xcworkspace file. Right click Runner from the left side nav bar within Xcode and select Add files and select the file you just downloaded to add to the project. Ensure that you have Copy Items if needed selected
 
 
 13. Get the firebase CLI through npm.
