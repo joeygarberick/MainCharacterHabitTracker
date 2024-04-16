@@ -80,19 +80,17 @@ In the command line navigate to the place in which you would like to initialize 
 ## Environment Setup
 1. [Download Flutter](https://docs.flutter.dev/get-started/install) as this is a flutter application.
 
-## Simulator Setup Xcode
-1. Download XCode
-2. Download the mobile phone simulator.
-    - With ios 15 or newer 
-3. Start up ios simulator
-    - Link to your editor
-4. Run the code
-
 ## Simulator Setup Android Studio
 1. Download Android Studio
-2. Download the mobile phone simulator.
-4. Link to your editor
-4. Run the code
+2. Under the more actions tab select virtual device manager
+3. Click the plus sign to create a new emulator
+4. Select the Pixel 6a hardware
+5. Select Android 14.0 (Upside Down Cake) as the Operating System and let it build
+6. Within VSCode, click on the device selector in the bottom right corner and cold boot the new emulator you just created
+7. Ensure that your backend emulators are running
+8. Run the following in the main project directory in the command line
+
+       $ flutter run
 
 ## Linting
 - This is a flutter project meaning we utilize Dart's built-in linter for an analysis of our Dart codebase. 
