@@ -48,9 +48,10 @@
 
 ## Map & taging locations
 ### click the bottom slider all the way to the right on the map icon
+Pins will appear automatically when you press the plus on the vices page to add a new track
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 20 43 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/8498fd78-c42c-4e93-b322-6d143e246d36">
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 21 00 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/2cc1ed6c-80a8-4559-9748-edf151203c21">
+## Profile/Logout Page
+### Allows the user to log out of their accound and displays some account details
 
-<img width="305" alt="Screenshot 2023-12-10 at 7 22 34 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/a82425fc-6dc7-428f-8a6d-044c5bb4de7d">
+
