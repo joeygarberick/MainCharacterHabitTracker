@@ -40,18 +40,24 @@
 ## Vice Statistics
 ### Once you have a vice created and tracked, you will be able to view it within the graphs pages, to get here click the middle of the navigation bar.
 
-<img width="301" alt="Screenshot 2024-03-11 at 9 19 18 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/3d2583c6-e066-4a5a-a5d5-3e75552e8afc">
+<img width="306" alt="Screenshot 2024-04-15 at 11 20 46 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/db5f0f73-e8d5-4e29-bdff-a34d5f6c9874">
 
-<img width="301" alt="Screenshot 2024-03-11 at 9 21 48 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/7b008d74-c15f-4a08-8dce-87656afdfd49">
+<img width="306" alt="Screenshot 2024-04-15 at 11 27 39 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/dcee2d2d-7f4e-44ad-948f-8407666caa43">
 
-<img width="301" alt="Screenshot 2024-03-11 at 9 22 01 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/2ab85640-6603-4faa-8cbe-dca071027749">
+<img width="306" alt="Screenshot 2024-04-15 at 11 21 01 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/6bd964b9-7c30-4e23-9876-1d3be51f6af7">
+
+<img width="306" alt="Screenshot 2024-04-15 at 11 21 08 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/07471b37-c045-42f3-ab34-e73d1ca1677f">
 
 ## Map & taging locations
 ### click the bottom slider all the way to the right on the map icon
 Pins will appear automatically when you press the plus on the vices page to add a new track
 
+<img width="306" alt="Screenshot 2024-04-15 at 11 22 08 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/fdc06cb9-3727-4978-bece-073a98706542">
+
+<img width="306" alt="Screenshot 2024-04-15 at 11 29 45 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/d1ed5066-c593-443d-8e29-3f0bb8347210">
 
 ## Profile/Logout Page
 ### Allows the user to log out of their accound and displays some account details
 
+<img width="306" alt="Screenshot 2024-04-15 at 11 21 23 PM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/ba88eacd-a9d5-45fe-bfae-4b2a24744569">
 
