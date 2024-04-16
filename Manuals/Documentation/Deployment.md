@@ -66,4 +66,3 @@ The keystore will be under whatever filepath you saved it to in the code in step
 
 10. Using the Google Play console, you can begin the process for app release to the Play Store
 
-## iOS Deployment
