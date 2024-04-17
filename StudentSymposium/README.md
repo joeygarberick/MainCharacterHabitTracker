@@ -12,7 +12,7 @@ Alexa Arkenberg
 
 Marcella Ribeiro
 
-(photo)
+<img width="501" alt="Screenshot 2024-04-17 at 11 10 05 AM" src="https://github.com/joeygarberick/MainCharacterHabitTracker/assets/112219906/4b5b85d6-42e0-4b6d-b9fe-7b2d1c874d7b">
 
 Brennan Hincks
 
