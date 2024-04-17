@@ -29,5 +29,10 @@ Noah Oosterhoff
 
 ### Hannah
 
+My overall thoughts for the student symposium was that it wasn't an event for us. Many of the other posters and presentations at this event were geared towards research. About what a group had studied and learn about over the course of the year. I think that in the future we should push for the importance of research development or more project based learning representation at this event. 
+
+I can't help but to think how many of those other research projects wouldn't have even been possible without the use of some type of software to help them collect data. Most of our classes applications and websites built for this capstone could and maybe will be used in the future for some type of research or analytics, and I don't think that it is fair for our projects to be listed and judged the same as direct research projects. We are in 2 completely different categories, and should be judged and awarded prizes as such. 
+
+Besides that, I enjoyed presenting and talking about what we have been working on for the past 2 semesters. I felt as if it was a great way to finalize feeling accomplished with what we had done.  
 
 ### Heidi
