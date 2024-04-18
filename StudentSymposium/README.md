@@ -36,3 +36,5 @@ I can't help but to think how many of those other research projects wouldn't hav
 Besides that, I enjoyed presenting and talking about what we have been working on for the past 2 semesters. I felt as if it was a great way to finalize feeling accomplished with what we had done.  
 
 ### Heidi
+
+as we are a project-based capstone, that was more of a research event. As other majors, spend their capstone doing research, our capstone is project-based, and due to that we get overlooked by all the research. I feel like there should be two events, one for the research student and one for the project based. But besides that I think it was a cool experience to see what everyone’s has been doing throughout this semester. I also thought it was kind of cool to see what other majors are doing, since we are a project based capstone.
